@@ -1,0 +1,137 @@
+addbooks table
+
+
+CREATE TABLE addbooks (
+    bookid INT IDENTITY(1,1) PRIMARY KEY,
+    bookname NVARCHAR(255) NOT NULL,
+    authorname NVARCHAR(255) NOT NULL,
+    publishername NVARCHAR(255) NOT NULL,
+    bookdescription NVARCHAR(MAX) NOT NULL,
+	originalprice DECIMAL(10,2) NULL,
+    discountpercentage DECIMAL(10,2) NULL,
+    discountamount DECIMAL(10,2) NULL,
+    
+	cost DECIMAL(10,2)  NULL,
+    publishdate DATETIME NOT NULL,
+    bookphoto VARBINARY(MAX) NOT NULL,
+    stocks INT NOT NULL,
+    genre NVARCHAR(100) NOT NULL,
+    category NVARCHAR(100) NOT NULL
+    
+);
+
+cart table
+
+
+CREATE TABLE cart (
+    cartid INT IDENTITY(1,1) PRIMARY KEY,
+    bookid INT NOT NULL,
+    bookname VARCHAR(255) NOT NULL,
+    email VARCHAR(255) NOT NULL,
+    quantity INT NOT NULL,
+    cost DECIMAL(10,2) NOT NULL,
+    totalamount DECIMAL(10,2) NOT NULL,
+    FOREIGN KEY (bookid) REFERENCES addbooks(bookid)
+);
+
+
+
+
+
+addbooks
+
+bookid	int	
+bookname	nvarchar(255)	
+authorname	nvarchar(255)	
+publishername	nvarchar(255)	
+bookdescription	nvarchar(MAX)	
+originalprice	decimal(10, 2)	Checked
+discountpercentage	decimal(10, 2)	Checked
+discountamount	decimal(10, 2)	Checked
+cost	decimal(10, 2)	Checked
+publishdate	datetime	
+bookphoto	varbinary(MAX)	
+stocks	int	
+genre	nvarchar(100)	
+category	nvarchar(100)	
+
+
+
+admin
+
+username	nvarchar(50)	
+password	nvarchar(50)	
+phonenumber	nvarchar(50)	
+
+
+cart
+CREATE TABLE cart (
+    cartid INT IDENTITY(1,1) PRIMARY KEY,             -- Auto-incrementing primary key
+    userid INT NOT NULL,                              -- FK from LoginTable
+    bookid INT NOT NULL,                              -- FK from AddBooks table
+    bookname VARCHAR(35) NOT NULL
+quantity int not null
+    -- Define foreign keys
+    CONSTRAINT FK_Cart_User FOREIGN KEY (userid) REFERENCES logintable(userid),
+    CONSTRAINT FK_Cart_Book FOREIGN KEY (bookid) REFERENCES addbooks(bookid)
+);
+
+
+
+
+
+CREATE TABLE logintable (
+    userid INT IDENTITY(1,1) PRIMARY KEY,
+    username VARCHAR(50) NOT NULL,
+    password NVARCHAR(50) NOT NULL,
+    email NVARCHAR(50) NOT NULL,
+    phonenumber VARCHAR(50) NOT NULL,
+    address VARCHAR(MAX) NOT NULL
+);
+
+
+
+
+
+
+orderid	int	
+CREATE TABLE orderdetails (
+    orderid INT PRIMARY KEY IDENTITY(1,1),
+    userid INT NOT NULL,
+    orderdate DATETIME NOT NULL DEFAULT GETDATE(),
+    deliverydate DATETIME NOT NULL DEFAULT DATEADD(DAY, 2, GETDATE()),
+    totalamount DECIMAL(10,2) NOT NULL,
+    paymentstatus VARCHAR(50) NOT NULL,
+    deliveryaddress VARCHAR(MAX) NOT NULL,
+    orderstatus VARCHAR(50) NOT NULL DEFAULT 'Processing' 
+        CHECK (OrderStatus IN ('Processing', 'Shipped', 'Out of Delivery', 'Delivered')),
+    FOREIGN KEY (userid) REFERENCES logintable(userid)
+);
+
+
+
+CREATE TABLE orderitemdetails (
+    orderitemid INT PRIMARY KEY IDENTITY(1,1),
+    orderid INT NOT NULL,
+    bookid INT NOT NULL,
+    bookname VARCHAR(255) NOT NULL,
+    quantity INT NOT NULL,
+    priceperunit DECIMAL(10,2) NOT NULL,
+    totalprice DECIMAL(10,2) NOT NULL,
+    FOREIGN KEY (orderid) REFERENCES orderdetails(orderid),
+    FOREIGN KEY (bookid) REFERENCES addbooks(bookid)
+);
+	
+
+
+CREATE TABLE feedback (
+    feedbackid INT PRIMARY KEY IDENTITY(1,1),
+    userid INT NOT NULL,
+    bookid INT NOT NULL,
+    rating INT CHECK (Rating >= 1 AND Rating <= 5),
+    comments VARCHAR(MAX),
+    feedbackdate DATETIME NOT NULL DEFAULT GETDATE(),
+    FOREIGN KEY (userid) REFERENCES logintable(userid),
+    FOREIGN KEY (bookid) REFERENCES addbooks(bookid)
+);
+ 
