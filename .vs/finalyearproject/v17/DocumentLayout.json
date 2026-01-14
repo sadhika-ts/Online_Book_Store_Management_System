@@ -1,0 +1,548 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\loginhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|solutionrelative:loginhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\appratings.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|solutionrelative:appratings.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\appratings.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|solutionrelative:appratings.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\feedback.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|solutionrelative:feedback.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\youraccount.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|solutionrelative:youraccount.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\payment.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|solutionrelative:payment.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\youraccount.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|solutionrelative:youraccount.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\viewdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|solutionrelative:viewdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\feedback.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|solutionrelative:feedback.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|c:\\users\\surut\\desktop\\sadhika\\new folder\\finalyearproject1\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|solutionrelative:cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|solutionrelative:homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\cart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|solutionrelative:cart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\books.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|solutionrelative:books.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\books.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|solutionrelative:books.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\payment.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|solutionrelative:payment.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|solutionrelative:signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|solutionrelative:signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|solutionrelative:login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\loginhome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|solutionrelative:loginhome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\new_books.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|solutionrelative:new_books.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\discount.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|solutionrelative:discount.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\new_books.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|solutionrelative:new_books.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|solutionrelative:checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\checkout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|solutionrelative:checkout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\viewdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|solutionrelative:viewdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|solutionrelative:homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\discount.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3F7520-1A6B-456F-9A35-4FB7B440B79B}|finalyearproject_user.csproj|solutionrelative:discount.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 102,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "loginhome.aspx",
+              "DocumentMoniker": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\loginhome.aspx",
+              "RelativeDocumentMoniker": "loginhome.aspx",
+              "ToolTip": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\loginhome.aspx",
+              "RelativeToolTip": "loginhome.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-01T07:05:58.943Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Checkout.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\Checkout.aspx.cs",
+              "RelativeDocumentMoniker": "Checkout.aspx.cs",
+              "ToolTip": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\Checkout.aspx.cs",
+              "RelativeToolTip": "Checkout.aspx.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAcwEUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T08:54:34.39Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cart.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\Cart.aspx.cs",
+              "RelativeDocumentMoniker": "Cart.aspx.cs",
+              "ToolTip": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\Cart.aspx.cs",
+              "RelativeToolTip": "Cart.aspx.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T11:15:03.889Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cart.aspx",
+              "DocumentMoniker": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\Cart.aspx",
+              "RelativeDocumentMoniker": "Cart.aspx",
+              "ToolTip": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\Cart.aspx",
+              "RelativeToolTip": "Cart.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-02T05:55:07.894Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "homepage.aspx",
+              "DocumentMoniker": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\homepage.aspx",
+              "RelativeDocumentMoniker": "homepage.aspx",
+              "ToolTip": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\homepage.aspx",
+              "RelativeToolTip": "homepage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-31T09:19:14.762Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "discount.aspx",
+              "DocumentMoniker": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\discount.aspx",
+              "RelativeDocumentMoniker": "discount.aspx",
+              "ToolTip": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\discount.aspx",
+              "RelativeToolTip": "discount.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-16T11:58:12.659Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "books.aspx",
+              "DocumentMoniker": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\books.aspx",
+              "RelativeDocumentMoniker": "books.aspx",
+              "ToolTip": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\books.aspx",
+              "RelativeToolTip": "books.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-05T18:29:02.883Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "discount.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\discount.aspx.cs",
+              "RelativeDocumentMoniker": "discount.aspx.cs",
+              "ToolTip": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\discount.aspx.cs",
+              "RelativeToolTip": "discount.aspx.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAqwG0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:59:45.222Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Checkout.aspx",
+              "DocumentMoniker": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\Checkout.aspx",
+              "RelativeDocumentMoniker": "Checkout.aspx",
+              "ToolTip": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\Checkout.aspx",
+              "RelativeToolTip": "Checkout.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-09T08:54:28.205Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "books.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\books.aspx.cs",
+              "RelativeDocumentMoniker": "books.aspx.cs",
+              "ToolTip": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\books.aspx.cs",
+              "RelativeToolTip": "books.aspx.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAIAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:29:39.308Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "new_books.aspx",
+              "DocumentMoniker": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\new_books.aspx",
+              "RelativeDocumentMoniker": "new_books.aspx",
+              "ToolTip": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\new_books.aspx",
+              "RelativeToolTip": "new_books.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-18T06:40:16.252Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "payment.aspx",
+              "DocumentMoniker": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\payment.aspx",
+              "RelativeDocumentMoniker": "payment.aspx",
+              "ToolTip": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\payment.aspx",
+              "RelativeToolTip": "payment.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-09T09:15:16.619Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "payment.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\payment.aspx.cs",
+              "RelativeDocumentMoniker": "payment.aspx.cs",
+              "ToolTip": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\payment.aspx.cs",
+              "RelativeToolTip": "payment.aspx.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T09:15:22.676Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "youraccount.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\youraccount.aspx.cs",
+              "RelativeDocumentMoniker": "youraccount.aspx.cs",
+              "ToolTip": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\youraccount.aspx.cs",
+              "RelativeToolTip": "youraccount.aspx.cs",
+              "ViewState": "AQIAAKMAAAAAAAAAAAAAALQAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:31:22.605Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "youraccount.aspx",
+              "DocumentMoniker": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\youraccount.aspx",
+              "RelativeDocumentMoniker": "youraccount.aspx",
+              "ToolTip": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\youraccount.aspx",
+              "RelativeToolTip": "youraccount.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-08T18:31:17.747Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "feedback.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\feedback.aspx.cs",
+              "RelativeDocumentMoniker": "feedback.aspx.cs",
+              "ToolTip": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\feedback.aspx.cs",
+              "RelativeToolTip": "feedback.aspx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAJ0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T14:31:46.071Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "feedback.aspx",
+              "DocumentMoniker": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\feedback.aspx",
+              "RelativeDocumentMoniker": "feedback.aspx",
+              "ToolTip": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\feedback.aspx",
+              "RelativeToolTip": "feedback.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-09T14:30:14.261Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appratings.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\appratings.aspx.cs",
+              "RelativeDocumentMoniker": "appratings.aspx.cs",
+              "ToolTip": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\appratings.aspx.cs",
+              "RelativeToolTip": "appratings.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T14:37:50.287Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appratings.aspx",
+              "DocumentMoniker": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\appratings.aspx",
+              "RelativeDocumentMoniker": "appratings.aspx",
+              "ToolTip": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\appratings.aspx",
+              "RelativeToolTip": "appratings.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-09T14:36:20.795Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "viewdetails.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\viewdetails.aspx.cs",
+              "RelativeDocumentMoniker": "viewdetails.aspx.cs",
+              "ToolTip": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\viewdetails.aspx.cs",
+              "RelativeToolTip": "viewdetails.aspx.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAcwF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:34:12.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "viewdetails.aspx",
+              "DocumentMoniker": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\viewdetails.aspx",
+              "RelativeDocumentMoniker": "viewdetails.aspx",
+              "ToolTip": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\viewdetails.aspx",
+              "RelativeToolTip": "viewdetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-06T09:34:00.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-05T13:50:57.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "new_books.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\new_books.aspx.cs",
+              "RelativeDocumentMoniker": "new_books.aspx.cs",
+              "ToolTip": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\new_books.aspx.cs",
+              "RelativeToolTip": "new_books.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T06:40:28.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "homepage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\homepage.aspx.cs",
+              "RelativeDocumentMoniker": "homepage.aspx.cs",
+              "ToolTip": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\homepage.aspx.cs",
+              "RelativeToolTip": "homepage.aspx.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwBsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:27:40.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "signup.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\signup.aspx.cs",
+              "RelativeDocumentMoniker": "signup.aspx.cs",
+              "ToolTip": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\signup.aspx.cs",
+              "RelativeToolTip": "signup.aspx.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:26:36.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\login.aspx.cs",
+              "RelativeDocumentMoniker": "login.aspx.cs",
+              "ToolTip": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\login.aspx.cs",
+              "RelativeToolTip": "login.aspx.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAYwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:29:52.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "signup.aspx",
+              "DocumentMoniker": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\signup.aspx",
+              "RelativeDocumentMoniker": "signup.aspx",
+              "ToolTip": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\signup.aspx",
+              "RelativeToolTip": "signup.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-05T18:25:51.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "loginhome.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\loginhome.aspx.cs",
+              "RelativeDocumentMoniker": "loginhome.aspx.cs",
+              "ToolTip": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\loginhome.aspx.cs",
+              "RelativeToolTip": "loginhome.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:25:31.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "login.aspx",
+              "DocumentMoniker": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\login.aspx",
+              "RelativeDocumentMoniker": "login.aspx",
+              "ToolTip": "C:\\Users\\surut\\Desktop\\sadhika\\New folder\\finalyearproject1\\login.aspx",
+              "RelativeToolTip": "login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-31T14:36:53.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

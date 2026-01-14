@@ -1,0 +1,6 @@
+BookID	INT	Primary Key, Auto Increment, Unique identifier for each book
+BookName	VARCHAR(255)	Name of the book
+AuthorName	VARCHAR(255)	Author of the book
+Description	TEXT	A short description of the book
+Price	DECIMAL(10, 2)	Price of the book
+ImagePath	VARCHAR(255)	Path to the image of the book
