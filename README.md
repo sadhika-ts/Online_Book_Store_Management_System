@@ -17,12 +17,11 @@ This project is a comprehensive **Online Book Store Management System** develope
 ---
 
 ## Technologies Used
-- ASP.NET (MVC or Web Forms — specify your exact framework)
+- ASP.NET 
 - C#
-- SQL Server (or your database)
+- Microsoft SQL Server Tools 20 
 - HTML, CSS, JavaScript
-- Bootstrap (if applicable)
-- Entity Framework (if used)
+- Bootstrap 
 
 ---
 
